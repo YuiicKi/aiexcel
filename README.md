@@ -1,4 +1,6 @@
 # AI-Driven Excel Processing Tool
+[English](#ai-driven-excel-processing-tool) | [中文](#ai驱动的excel处理工具)
+
 
 This project provides an intelligent solution for processing and merging Excel files with different formats using AI technology. It's particularly useful for scenarios where multiple departments require the same data in different formats.
 
@@ -79,15 +81,11 @@ python merge_excel.py
 
 Contributions are welcome! Please feel free to submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
 # AI驱动的Excel处理工具
 
-[English](#ai-driven-excel-processing-tool) | [中文](#ai驱动的excel处理工具)
 
 本项目提供了一个智能的解决方案，使用AI技术处理和合并不同格式的Excel文件。特别适用于多个部门需要使用相同数据但格式不同的场景。
 
@@ -168,6 +166,3 @@ python merge_excel.py
 
 欢迎提交Pull Request来改进这个项目！
 
-## 许可证
-
-本项目采用MIT许可证 - 详见LICENSE文件
