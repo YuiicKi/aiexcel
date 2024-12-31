@@ -1,0 +1,21 @@
+{
+  "total_runs": 500,
+  "consistent_runs": 334,
+  "consistency_rate": 0.668,
+  "responses": [
+    {
+      "response": "表1的3对应表3的4  \n表1的2对应表3的5  \n表1的6对应表3的9",
+      "count": 334
+    },
+    {
+      "response": "表1的2对应表3的5  \n表1的3对应表3的4  \n表1的6对应表3的9",
+      "count": 107
+    },
+    {
+      "response": "API请求错误: Connection error.",
+      "count": 59
+    }
+  ],
+  "most_common_response": "表1的3对应表3的4  \n表1的2对应表3的5  \n表1的6对应表3的9",
+  "model": "gpt-4o-2024-11-20"
+}

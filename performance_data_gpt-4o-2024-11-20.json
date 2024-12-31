@@ -1,0 +1,486 @@
+{
+  "runs": [
+    {
+      "run_number": 1,
+      "time": 2.0451531410217285,
+      "timestamp": "2024-12-30 16:37:14",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 2,
+      "time": 1.7242181301116943,
+      "timestamp": "2024-12-30 16:37:15",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 3,
+      "time": 1.9363830089569092,
+      "timestamp": "2024-12-30 16:37:17",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 4,
+      "time": 1.4535911083221436,
+      "timestamp": "2024-12-30 16:37:19",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 5,
+      "time": 1.597855567932129,
+      "timestamp": "2024-12-30 16:37:20",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 6,
+      "time": 2.6604368686676025,
+      "timestamp": "2024-12-30 16:37:23",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 7,
+      "time": 2.44970703125,
+      "timestamp": "2024-12-30 16:37:25",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 8,
+      "time": 2.682873010635376,
+      "timestamp": "2024-12-30 16:37:28",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 9,
+      "time": 1.5798039436340332,
+      "timestamp": "2024-12-30 16:37:30",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 10,
+      "time": 2.7544751167297363,
+      "timestamp": "2024-12-30 16:37:32",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 1,
+      "time": 0.949753999710083,
+      "timestamp": "2024-12-30 16:37:33",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 2,
+      "time": 1.0198290348052979,
+      "timestamp": "2024-12-30 16:37:34",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 3,
+      "time": 1.1419010162353516,
+      "timestamp": "2024-12-30 16:37:36",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 4,
+      "time": 1.098257303237915,
+      "timestamp": "2024-12-30 16:37:37",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 5,
+      "time": 1.2236359119415283,
+      "timestamp": "2024-12-30 16:37:38",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 6,
+      "time": 0.8874468803405762,
+      "timestamp": "2024-12-30 16:37:39",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 7,
+      "time": 1.18522310256958,
+      "timestamp": "2024-12-30 16:37:40",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 8,
+      "time": 1.224139928817749,
+      "timestamp": "2024-12-30 16:37:41",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 9,
+      "time": 1.3271582126617432,
+      "timestamp": "2024-12-30 16:37:42",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 10,
+      "time": 1.186622142791748,
+      "timestamp": "2024-12-30 16:37:44",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 1,
+      "time": 1.7232818603515625,
+      "timestamp": "2024-12-30 16:41:19",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 2,
+      "time": 2.163694143295288,
+      "timestamp": "2024-12-30 16:41:21",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 3,
+      "time": 2.2028000354766846,
+      "timestamp": "2024-12-30 16:41:23",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 4,
+      "time": 1.825692892074585,
+      "timestamp": "2024-12-30 16:41:25",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 5,
+      "time": 1.5746040344238281,
+      "timestamp": "2024-12-30 16:41:27",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 6,
+      "time": 1.8254680633544922,
+      "timestamp": "2024-12-30 16:41:28",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 7,
+      "time": 1.9660179615020752,
+      "timestamp": "2024-12-30 16:41:30",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 8,
+      "time": 1.7418839931488037,
+      "timestamp": "2024-12-30 16:41:32",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 9,
+      "time": 2.0855541229248047,
+      "timestamp": "2024-12-30 16:41:34",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 10,
+      "time": 2.7496089935302734,
+      "timestamp": "2024-12-30 16:41:37",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 1,
+      "time": 1.1968140602111816,
+      "timestamp": "2024-12-30 16:41:38",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 2,
+      "time": 1.2793591022491455,
+      "timestamp": "2024-12-30 16:41:39",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 3,
+      "time": 1.0553138256072998,
+      "timestamp": "2024-12-30 16:41:41",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 4,
+      "time": 1.0849637985229492,
+      "timestamp": "2024-12-30 16:41:42",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 5,
+      "time": 1.2493391036987305,
+      "timestamp": "2024-12-30 16:41:43",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 6,
+      "time": 2.058708906173706,
+      "timestamp": "2024-12-30 16:41:45",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 7,
+      "time": 1.1663107872009277,
+      "timestamp": "2024-12-30 16:41:46",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 8,
+      "time": 1.6555571556091309,
+      "timestamp": "2024-12-30 16:41:48",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 9,
+      "time": 1.1529760360717773,
+      "timestamp": "2024-12-30 16:41:49",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 10,
+      "time": 1.4446280002593994,
+      "timestamp": "2024-12-30 16:41:50",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 1,
+      "time": 1.65037202835083,
+      "timestamp": "2024-12-30 16:48:17",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 2,
+      "time": 1.8279860019683838,
+      "timestamp": "2024-12-30 16:48:19",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 3,
+      "time": 2.2822248935699463,
+      "timestamp": "2024-12-30 16:48:21",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 4,
+      "time": 2.653815984725952,
+      "timestamp": "2024-12-30 16:48:24",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 5,
+      "time": 2.26753306388855,
+      "timestamp": "2024-12-30 16:48:26",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 6,
+      "time": 2.361353874206543,
+      "timestamp": "2024-12-30 16:48:29",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 7,
+      "time": 2.5619149208068848,
+      "timestamp": "2024-12-30 16:48:31",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 8,
+      "time": 1.7548539638519287,
+      "timestamp": "2024-12-30 16:48:33",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 9,
+      "time": 1.304291009902954,
+      "timestamp": "2024-12-30 16:48:34",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 10,
+      "time": 1.5328309535980225,
+      "timestamp": "2024-12-30 16:48:36",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 1,
+      "time": 1.5267939567565918,
+      "timestamp": "2024-12-30 16:48:37",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 2,
+      "time": 1.0256187915802002,
+      "timestamp": "2024-12-30 16:48:38",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 3,
+      "time": 1.4126949310302734,
+      "timestamp": "2024-12-30 16:48:40",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 4,
+      "time": 1.351557970046997,
+      "timestamp": "2024-12-30 16:48:41",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 5,
+      "time": 0.9491398334503174,
+      "timestamp": "2024-12-30 16:48:42",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 6,
+      "time": 1.1095499992370605,
+      "timestamp": "2024-12-30 16:48:43",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 7,
+      "time": 1.2179388999938965,
+      "timestamp": "2024-12-30 16:48:44",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 8,
+      "time": 1.3362200260162354,
+      "timestamp": "2024-12-30 16:48:46",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 9,
+      "time": 1.3160557746887207,
+      "timestamp": "2024-12-30 16:48:47",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 10,
+      "time": 1.2597010135650635,
+      "timestamp": "2024-12-30 16:48:48",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 1,
+      "time": 1.6305549144744873,
+      "timestamp": "2024-12-30 16:55:21",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 2,
+      "time": 1.7789521217346191,
+      "timestamp": "2024-12-30 16:55:22",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 3,
+      "time": 2.3446719646453857,
+      "timestamp": "2024-12-30 16:55:25",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 4,
+      "time": 2.0205330848693848,
+      "timestamp": "2024-12-30 16:55:27",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 5,
+      "time": 1.8882520198822021,
+      "timestamp": "2024-12-30 16:55:29",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 6,
+      "time": 1.6271097660064697,
+      "timestamp": "2024-12-30 16:55:30",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 7,
+      "time": 2.7172579765319824,
+      "timestamp": "2024-12-30 16:55:33",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 8,
+      "time": 2.9715139865875244,
+      "timestamp": "2024-12-30 16:55:36",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 9,
+      "time": 2.6740379333496094,
+      "timestamp": "2024-12-30 16:55:39",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 10,
+      "time": 2.658734083175659,
+      "timestamp": "2024-12-30 16:55:41",
+      "comparison_type": "表1和表2"
+    },
+    {
+      "run_number": 1,
+      "time": 2.603710174560547,
+      "timestamp": "2024-12-30 16:55:44",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 2,
+      "time": 2.63767409324646,
+      "timestamp": "2024-12-30 16:55:47",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 3,
+      "time": 2.9548490047454834,
+      "timestamp": "2024-12-30 16:55:50",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 4,
+      "time": 2.8861958980560303,
+      "timestamp": "2024-12-30 16:55:52",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 5,
+      "time": 2.6247129440307617,
+      "timestamp": "2024-12-30 16:55:55",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 6,
+      "time": 2.538562059402466,
+      "timestamp": "2024-12-30 16:55:58",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 7,
+      "time": 2.939850091934204,
+      "timestamp": "2024-12-30 16:56:01",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 8,
+      "time": 3.944843053817749,
+      "timestamp": "2024-12-30 16:56:04",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 9,
+      "time": 2.4118237495422363,
+      "timestamp": "2024-12-30 16:56:07",
+      "comparison_type": "表1和表3"
+    },
+    {
+      "run_number": 10,
+      "time": 2.647001028060913,
+      "timestamp": "2024-12-30 16:56:10",
+      "comparison_type": "表1和表3"
+    }
+  ],
+  "total_average": 1.8566791146993638,
+  "model": "gpt-4o-2024-11-20"
+}
